@@ -5,7 +5,7 @@ Write a command line program that given a "dictionary" (a file containing words 
 For example:
 
 ```
-anagram.py dict2.txt allergy
+anagram.exe dict2.txt allergy
 gallery
 largely
 regally
